@@ -28,7 +28,7 @@ $env = $app->detectEnvironment(array(
 
 	'local' => array('your-machine-name'),
 
-));
+)); // 'your-machine-name' is the hostname of the server
 
 /*
 |--------------------------------------------------------------------------
